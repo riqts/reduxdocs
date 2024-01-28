@@ -1,0 +1,6 @@
+[submodule "docs/redux-toolkit"]
+	path = docs/redux-toolkit
+	url = https://github.com/reduxjs/redux-toolkit
+[submodule "docs/react-redux"]
+	path = docs/react-redux
+	url = https://github.com/reduxjs/react-redux

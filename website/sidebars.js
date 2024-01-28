@@ -155,6 +155,7 @@ module.exports = {
       'api/utils',
       { type: 'link', label: 'Error Messages', href: '/errors' }
     ],
-    'Redux Toolkit': ['redux-toolkit/overview']
+    'Redux Toolkit': ['redux-toolkit/docs/api/actionCreatorMiddleware'],
+    'React Redux': ['react-redux/docs/api/batch']
   }
 }
